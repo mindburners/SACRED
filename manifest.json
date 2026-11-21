@@ -1,6 +1,6 @@
 {
   "name": "SACRED — Firmware Installer",
-  "version": "0.15.3",
+  "version": "0.16",
   "new_install_prompt_erase": false,
   "builds": [
     {

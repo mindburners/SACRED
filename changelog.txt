@@ -1,3 +1,4 @@
+0.16 - Name your sounds when you save them
 0.15.3 - Patch names shown on the patch page
 0.15.2 - Page 2 storage rebuilt (fixes no sound on some units)
 0.15 - 80 patch memories: page 2 DARK SIDE with 40 new darker, experimental sounds
